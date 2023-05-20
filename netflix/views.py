@@ -16,7 +16,7 @@ PAGE_SIZE_PER_CATEGORY = 20
 def index_view(request):
     """Home page view."""
     # We define the list of categories we want to display
-    categories_to_display = ['Action', 'Adventure']
+    categories_to_display = ['Action', 'Anime']
 
     data = {}
     # We create a dictionary that map each category with the it movies
