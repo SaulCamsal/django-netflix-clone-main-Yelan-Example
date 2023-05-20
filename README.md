@@ -1,6 +1,7 @@
-# django-netflix-clone
-A simple full-stack clone of Netflix website using Django.
+# django-Yelan (Using Netflix Template)
+A simple full-stack Movie website using Django.
 
+Tutorial followed:
 ## This project is the result of this [Dev.to](https://dev.to/fayomihorace/build-a-netflix-clone-with-django-part-1-complete-beginner-course-3al3) tutorial [Build a Netflix clone with Django (Complete beginner course)](https://dev.to/fayomihorace/build-a-netflix-clone-with-django-part-1-complete-beginner-course-3al3).
 
 ## Demo
